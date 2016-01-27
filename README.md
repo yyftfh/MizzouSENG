@@ -3,5 +3,5 @@
 Mizzou Software Engineering Course
 ##link#
 *[JQuery](https://jquery.com/)
-*[DJ.js](http://d3ja.org/)
+*[DJ.js](http://d3js.org/)
 *[the Buffington  Post  API](https://github.com/huffingtonpost)
